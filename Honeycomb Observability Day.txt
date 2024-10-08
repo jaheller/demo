@@ -1,0 +1,11 @@
+
+http://bootcampXX.gremlinpoc.com:8080
+
+Logins
+Honeycomb ( https://ui.honeycomb.io/ ):
+Username: jason.heller+bcX@gremlin.com
+Password: Infra-training24
+
+Login for Gremlin ( https://app.gremlin.com/ )
+Username: bootcamps@gremlin.com
+Password: Infra-training24
